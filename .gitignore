@@ -15,3 +15,8 @@ ml/saved_models/*.pkl
 
 /backend/uploads/
 /uploads/
+
+/backend/uploads/
+/uploads/
+
+.venv/
