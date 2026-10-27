@@ -1,0 +1,17 @@
+node_modules/
+frontend/node_modules/
+backend/.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+.DS_Store
+*.log
+uploads/*
+!uploads/.gitkeep
+ml/saved_models/*.pkl
+
+/backend/uploads/
+/uploads/
